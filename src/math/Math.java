@@ -17,6 +17,11 @@ public class Math {
 		return (val1&val2) + ((val1^val2)>>1);
 		
 	}
+	
+	public static boolean isOdd(int num) {
+		if((num & 1)==0) return false;
+		return true;
+	}
 
 	
 }
