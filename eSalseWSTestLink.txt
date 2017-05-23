@@ -1,0 +1,161 @@
+1)
+Product Contactme 
+ WS
+ 8.5
+ http://uatts.cigna.com.hk/eSalesHKWS/ContactMe.do?action=contact&campaigncode=ELITENEW15&title=Mr.&firstname=產品firstnamet&lastname=產品lastname&phone=28882999&preftime=10%3A00am+-+1%3A00pm&email=haijun.zhu@tcs.com&enquiry=please選擇合適您的產品&lang=en_US&opt=on&iqid=128695740
+ http://localhost:9083/eSalesHKWS/ContactMe.do?action=contact&campaigncode=ELITENEW15&title=Mr.&firstname=產品WOWebfirstnamet&lastname=產品WOWeblastname&phone=28882999&preftime=ls%7C10%3A00am+-+1%3A00pm&email=haijun.zhu@tcs.com&enquiry=please選擇合適您的產品&lang=en_US&opt=on&iqid=128695740
+ http://hkrappuw001:9080/eSalesHKWS_SIT/ContactMe.do?action=contact&campaigncode=ELITENEW15&title=Mr.&firstname=產品WOWebfirstnamet&lastname=產品WOWeblastname&phone=28882999&preftime=ls%7C10%3A00am+-+1%3A00pm&email=haijun.zhu@tcs.com&enquiry=please選擇合適您的產品&lang=en_US&opt=on&iqid=128695740
+ http://hkrappuw001:9080/eSalesHKWS_SIT/ContactMe.do?action=contact&campaigncode=ELITENEW15&title=Mr.&firstname=產品WOWebfirstnamet&lastname=產品WOWeblastname&phone=28882999&preftime=ls%7C10%3A00am+-+1%3A00pm&email=haijun.zhu@tcs.com&enquiry=please選擇合適您的產品&lang=en_US&opt=on&iqid=128695740
+ 
+ 2)   
+Product Quote 
+ WS
+ 8.5
+
+ https://uatts.cigna.com.hk/eSalesHKWS/GetQuote.do?&offercode=IP200_Offer&planLevel=&dob-dates-min=1942/1/4&dob-dates-max=1999/1/4&si=400000&gender=M&lastname=&firstname=&dob=1980/01/08&email=&phone=&smoking=0&campaigncode=INTPMI2014&iqid=8853046781166&action=quote&lang=zh_HK
+ http://hkrappuw001:9080/cignawebhk/GetQuote.do?&offercode=IP200_Offer&planLevel=&dob-dates-min=1942/1/4&dob-dates-max=1999/1/4&si=400000&gender=M&lastname=&firstname=&dob=1980/01/08&email=&phone=&smoking=0&campaigncode=ELITENEW15&iqid=8853046781166&action=quote&lang=zh_HK
+http://localhost:9083/eSalesHKWS/GetQuote.do?&offercode=IP200_Offer&planLevel=&dob-dates-min=1942/1/4&dob-dates-max=1999/1/4&si=400000&gender=M&lastname=&firstname=&dob=1980/01/08&email=&phone=&smoking=0&campaigncode=INTPMI2014&iqid=8853046781166&action=quote&lang=zh_HK
+http://hkrappuw001:9080/eSalesHKWS_SIT/GetQuote.do?&offercode=IP200_Offer&planLevel=&dob-dates-min=1942/1/4&dob-dates-max=1999/1/4&si=400000&gender=M&lastname=&firstname=&dob=1980/01/08&email=&phone=&smoking=0&campaigncode=INTPMI2014&iqid=8853046781166&action=quote&lang=zh_HK
+http://localhost:9083/eSalesHKWS/GetQuote.do?&offercode=IE200_Offer&planLevel=&dob-dates-min=1942/3/24&dob-dates-max=2017/3/6&si=400000&gender=M&lastname=&firstname=&dob=1987/04/01&email=&phone=&smoking=0&campaigncode=INTELECM17&iqid=2883657353714&action=quote&lang=en_US
+
+  3)  
+Send Email Quotation 
+ WS
+ 8.5
+http:/uatts.cigna.com.hk/eSalesHKWS/SendQuote.do?action=emailquote&lang=en_US&dob=1979%2F03%2F21&firstname=WOQuotefirstnamet&lastname=WOQuotelastname&email=haijun.zhu@tcs.com&quoteid=NPDQIZDH
+http://localhost:9083/eSalesHKWS/SendQuote.do?action=emailquote&lang=en_US&dob=1979%2F03%2F21&firstname=WOQuotefirstnamet&lastname=WOQuotelastname&email=haijun.zhu@tcs.com&quoteid=0PWHIC32
+http://hkrappuw001:9080/eSalesHKWS_SIT/SendQuote.do?action=emailquote&lang=en_US&dob=1979%2F03%2F21&firstname=WOQuotefirstnamet&lastname=WOQuotelastname&email=haijun.zhu@tcs.com&quoteid=0PWHIC32
+
+http://localhost:9083/eSalesHKWS/SendQuote.do?action=emailquote&lang=en_US&dob=1979%2F03%2F21&firstname=WOQuotefirstnamet&lastname=WOQuotelastname&email=haijun.zhu@tcs.com&quoteid=YRMFHFY1
+
+  not OK =>Need check
+  4)
+Request Quoteinfo 
+ WS
+ 8.5
+ http://uatts.cigna.com.hk/eSalesHKWS/getquoteinfo.do?action=quoteinfo&quoteid=0PWHIC32&dob=1980/01/08&lang=en_US&iqid=1671983984461
+ http://localhost:9083/eSalesHKWS/getquoteinfo.do?action=quoteinfo&quoteid=0PWHIC32&dob=1980/01/08&lang=en_US&iqid=0PWHIC32
+ http://hkrappuw001:9080/eSalesHKWS_SIT/getquoteinfo.do?action=quoteinfo&quoteid=0PWHIC32&dob=1980/01/08&lang=en_US&iqid=0PWHIC32
+      ok
+    5)
+   
+Contactus 
+ WS
+ 8.5
+ http://uatts.cigna.com.hk/eSalesHKWS/Contactus.do?action=contactus&lang=en_US&enquirytype=8a80808618baf1bd0118bb0e45c80002&name=WOWebfirstnametWOWeblastname&title=Mr.&firstname=WOWebfirstnamet&lastname=WOWeblastname&phone=28882999&email=haijun.zhu@tcs.com&enquiry=please選擇合適您的產品
+ http://localhost:9083/eSalesHKWS/Contactus.do?action=contactus&lang=en_US&enquirytype=8a80808618baf1bd0118bb0e45c80002&name=WOWebfirstnametWOWeblastname&title=Mr.&firstname=WOWebfirstnamet&lastname=WOWeblastname&phone=28882999&email=haijun.zhu@tcs.com&enquiry=please選擇合適您的產品
+ http://hkrappuw001:9080/eSalesHKWS_SIT/Contactus.do?action=contactus&lang=en_US&enquirytype=8a80808618baf1bd0118bb0e45c80002&name=WOWebfirstnametWOWeblastname&title=Mr.&firstname=WOWebfirstnamet&lastname=WOWeblastname&phone=28882999&email=haijun.zhu@tcs.com&enquiry=please選擇合適您的產品
+  ok=>need check
+OK    
+6)
+Email Collection/Registration 
+ WS
+ 8.5
+ http://uatts.cigna.com.hk/eSalesHKWS/Emailcollection.do?action=emailcollect&lang=en_US&firstname=WOWebfirstnamet&lastname=WOWeblastname&policynum=HL00289872&contactphone=28882999&email=haijun.zhu@tcs.com&remark=please選擇合適您的產品&opt=
+ http://localhost:9083/eSalesHKWS/Emailcollection.do?action=emailcollect&lang=en_US&firstname=WOWebfirstnamet&lastname=WOWeblastname&policynum=HL00289872&contactphone=28882999&email=haijun.zhu@tcs.com&remark=please選擇合適您的產品&opt=
+ http://hkrappuw001:9080/eSalesHKWS_SIT/Emailcollection.do?action=emailcollect&lang=en_US&firstname=WOWebfirstnamet&lastname=WOWeblastname&policynum=HL00289872&contactphone=28882999&email=haijun.zhu@tcs.com&remark=please選擇合適您的產品&opt=
+   OK
+   7) 
+Email Subscription 
+ WS
+ 8.5
+ http://uatts.cigna.com.hk/eSalesHKWS/Emailsubscription.do?action=emailsubscription&firstname=WOWebfirstnamet&lastname=WOWeblastname&email=haijun.zhu@tcs.com&lang=en_US&Interest_recipes=1&Interest_nutrition=1&Interest_fitness=1&Interest_familycare=1&Interest_lifestyle=1&Interest_medicaltrips=1&Interest_01=1&Interest_02=1
+ http://localhost:9083/eSalesHKWS/Emailsubscription.do?action=emailsubscription&firstname=WOWebfirstnamet&lastname=WOWeblastname&email=haijun.zhu@tcs.com&lang=en_US&Interest_recipes=1&Interest_nutrition=1&Interest_fitness=1&Interest_familycare=1&Interest_lifestyle=1&Interest_medicaltrips=1&Interest_01=1&Interest_02=1
+ http://hkrappuw001:9080/eSalesHKWS_SIT/Emailsubscription.do?action=emailsubscription&firstname=WOWebfirstnamet&lastname=WOWeblastname&email=haijun.zhu@tcs.com&lang=en_US&Interest_recipes=1&Interest_nutrition=1&Interest_fitness=1&Interest_familycare=1&Interest_lifestyle=1&Interest_medicaltrips=1&Interest_01=1&Interest_02=1
+    Need ..
+
+       8) 
+Email Un-Subscription
+ WS
+ 8.5
+ http://uatts.cigna.com.hk/eSalesHKWS/Emailunsubscription.do?action=emailunsubscription&email=haijun.zhu@tcs.com
+ http://localhost:9089/eSalesHKWS/Emailunsubscription.do?action=emailunsubscription&email=haijun.zhu@tcs.com
+ http://hkrappuw001:9080/eSalesHKWS_SIT/Emailunsubscription.do?action=emailunsubscription&email=haijun.zhu@tcs.com
+Need 
+ 
+GA   
+https://uatts.cigna.com.hk/eSalesHKWS/GetQuote.do?gender=M&dob=2010/12/15&smoking=0&iqid=1671983984461&campaigncode=INTGAOPECM&offercode=GA100_Offer&planLevel=&dob-dates-min=&dob-dates-max=&si=100000&action=quote&lang=en_US
+http://localhost:9089/eSalesHKWS/GetQuote.do?gender=M&dob=2010/12/15&smoking=0&iqid=1671983984461&campaigncode=INTGAOPECM&offercode=GA100_Offer&planLevel=&dob-dates-min=&dob-dates-max=&si=100000&action=quote&lang=en_US
+http://hkrappuw001:9080/eSalesHKWS_SIT/GetQuote.do?gender=M&dob=2010/12/15&smoking=0&iqid=1671983984461&campaigncode=INTGAOPECM&offercode=GA100_Offer&planLevel=&dob-dates-min=&dob-dates-max=&si=100000&action=quote&lang=en_US
+   9) 
+getquoteproduct
+http://localhost:9083/eSalesHKWS/getquoteproduct.do?action=Quotepremiumrate&lang=en_US&quotecampaign=INTELECM17
+https://uatts.cigna.com.hk/eSalesHKWS/getquoteproduct.do?action=Quotepremiumrate&lang=en_US&quotecampaign=INTELECM17
+http://hkrappuw001:9080/eSalesHKWS_SIT/getquoteproduct.do?action=Quotepremiumrate&lang=en_US&quotecampaign=INTPMI2014A
+http://hkrappuw001:9080/eSalesHKWS_SIT/getquoteproduct.do?action=Quotepremiumrate&lang=en_US&quotecampaign=INTELECM17
+
+10)
+local
+http://localhost:9083/eSalesHKWS/TranslAppToJETBatch.do?action=translate&runningNo=STP2016121301&policyNumber=STP0000001
+
+http://hkrappuw001:9080/eSalesHKWS_SIT/TranslAppToJETBatch.do?action=translate&runningNo=STP2016121301&policyNumber=STP0000001
+http://localhost:9083/eSalesHKWS_SIT/TranslAppToJETBatch.do?action=translate&runningNo=STP2016121301&policyNumber=STP0000001
+
+	
+11)
+https://uatts.cigna.com.hk/eSalesHKWS/TranslAppToJETBatch.do?action=translate&runningNo=STP2016121301&policyNumber=STP0000001
+https://uatts.cigna.com.hk/eSalesHKWS/TranslAppToJETBatch.do?action=translate&runningNo=PTP17490006&policyNumber=PTP0002970
+http://localhost:9083/eSalesHKWS_JET/TranslAppToJETBatch.do?action=translate&runningNo=PTP17490006&policyNumber=PTP0002970
+
+12)
+https://uatts.cigna.com.hk/eSalesHKWS/GenerationForJet.do?action=generationForJet
+http://localhost:9083/eSalesHKWS_JET/GenerationForJet.do?action=generationForJet
+
+
+
+13)
+http://localhost:9083/eSalesHKWS_JET/EmailSubsciprtionReport.do?action=report
+https://uatts.cigna.com.hk/eSalesHKWS/EmailSubsciprtionReport.do?action=report
+http://hkrappuw001:9080/eSalesHKWS_SIT/EmailSubsciprtionReport.do?action=report
+
+POLICY_NUMBER	Running_No
+	
+
+
+-------------------------
+UW back path:
+http://192.168.137.231:9080/cignawebhk/uwStatusIPMI.do?action=uwStatus
+
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/"; xmlns:ser="http://service.quote.ecommerce.cigna.intl.com">;
+
+   <soapenv:Header/>
+
+   <soapenv:Body>
+
+      <ser:queryPackageQuotation>
+
+         <ser:queryParam>
+
+            <ser:agent/>
+
+            <ser:password/>
+
+            <ser:country>HK</ser:country>
+
+            <ser:language>en</ser:language>
+
+            <ser:campaigncode>INTELECM17</ser:campaigncode>
+
+            <ser:offercode>IE100_Offer</ser:offercode>
+
+            <ser:age>17</ser:age>
+
+            <ser:gender>M</ser:gender>
+
+            <ser:smokeamountperday>0</ser:smokeamountperday>
+
+            <ser:occupationlevel>1</ser:occupationlevel>
+
+            <ser:monthlyincome>1</ser:monthlyincome>
+
+         </ser:queryParam>
+
+      </ser:queryPackageQuotation>
+
+   </soapenv:Body>
+
+</soapenv:Envelope>

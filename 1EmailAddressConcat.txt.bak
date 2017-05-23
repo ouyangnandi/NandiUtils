@@ -1,0 +1,1000 @@
+http://192.168.47.153:8080/CignaManagementPro/login.do
+--------------------------------------------------------
+HK UAT 
+hkrappuw001
+b1chan_admin
+Qwer1234
+--------------------------------------------------------
+IN Production User
+
+User id: sxanwa                
+Password: Cigna$123
+
+HK HKWP Production SSOID
+P220219528
+cigna000
+--------------------------------------------------------
+UAT webSeal
+https://gisiebuat.cigna.com.hk/cigna/gis/ieb/login.jsf
+--------------------------------------------------------
+EOL test
+https://hkrwasdw006.asia.intl.cigna.com:9043/ibm/console
+https://hkrwasdw006.asia.intl.cigna.com:9444/CignaIpasID 
+https://hkrwasdw005.asia.intl.cigna.com:9446/CignaIpasID 
+
+--------------------------------------------------------
+HK eSales
+https://hkrappuw001.asia.intl.cigna.com:9046/ibm/console/logon.jsp 
+
+UserName: appAdmin 
+Password:Cigna123 
+-------------------------------------------
+SLP UAT link
+http://192.168.137.231:9080/cignawebhk/QuoteSSP.do?action=newApply&SalesInfo.locale=zh_HK&SalesInfo.campaign=SLPSNGPLN,SLPJNTPLN&IQ_ID=12869574&SalesInfo.offercode=SL100_Offer,SJ100_Offer
+
+http://localhost:9089/cignawebhk/QuoteSSP.do?action=newApply&SalesInfo.locale=zh_HK&SalesInfo.campaign=SLPSNGPLN,SLPJNTPLN&IQ_ID=12869574&SalesInfo.offercode=SL100_Offer,SJ100_Offer
+
+A246081(8)
+K9820558
+K789542 9
+
+eSales:
+http://HKRAPPUW001.asia.intl.cigna.com:9082/eSalesHKWS/QuoteSSP.do?action=newApply&SalesInfo.locale=zh_HK&SalesInfo.campaign=SLPSNGPLN,SLPJNTPLN&IQ_ID=12869574&SalesInfo.offercode=SL100_Offer,SJ100_Offer
+http://localhost:9089/cignawebhk/QuoteIPMI.do?action=quote&SalesInfo.locale=zh_HK
+https://uatts.cigna.com.hk/cignawebhk/QuoteIPMI.do?action=quote&SalesInfo.locale=zh_HK
+https://uat.cigna.com.hk/cignawebhk/ConfirmSSP.do?action=confirmDeclear#
+https://10.130.44.145/cignawebhk/QuoteIPMI.do?action=quote&SalesInfo.locale=zh_HK
+https://192.168.137.231:9443/cignawebhk/QuoteIPMI.do?action=quote&SalesInfo.locale=zh_HK
+https://192.168.137.231:9443/cignawebhk/QuoteCPLUS.do?action=quote&SalesInfo.locale=zh_HK
+https://192.168.137.231:9443/cignawebhk/QuoteSSP.do?action=newApply&SalesInfo.locale=zh_HK&SalesInfo.campaign=SLPSNGPLN,SLPJNTPLN&IQ_ID=12869574&SalesInfo.offercode=SL100_Offer,SJ100_Offer
+
+// UW return
+https://www.cigna.com.hk/cignawebhk/uwStatusIPMI.do?action=uwStatus
+https://www.cigna.com.hk/cignawebhk/QuoteIPMI.do?action=quote&SalesInfo.locale=zh_HK
+
+https://uatts.cigna.com.hk/cignawebhk/QuoteIPMI.do?action=quote&SalesInfo.locale=zh_HK
+http://uat.cigna.com.hk/cignawebhk/QuoteIPMI.do?action=quote&SalesInfo.locale=zh_HK
+
+http://hkrappuw001:9080/cignawebhk/QuoteSSP.do?action=newApply&SalesInfo.locale=zh_HK&SalesInfo.campaign=SLPSNGPLN,SLPJNTPLN&IQ_ID=12869574&SalesInfo.offercode=SL100_Offer,SJ100_Offer
+http://hkrappuw001:9080/cignawebhk/QuoteIPMI.do?action=quote&SalesInfo.locale=zh_HK
+http://hkrappuw001:9080/cignawebhk/QuoteCPLUS.do?action=quote&SalesInfo.locale=zh_HK
+
+http://hkrappuw001:9080/CignaIpasHK/Login.jsp  
+http://hkrappuw001:9080/CignaIpasHS/Login.jsp
+http://hkrappuw001:9080/cignawebhk/dwr/
+
+TestID:   ID 
+-------------------------------------------
+\\192.168.47.59\Soft
+-------------------------------------------
+AS400 id:              HS3GUI 
+Password:           b#2npv6x 
+-------------------------------------------
+ASIA\HKRVD0162 (10.130.206.139)   chaonan
+ASIA\HKRVD0171 (10.130.206.191)   yifan
+ASIA\HKRVD0137 (10.130.206.164)   haijun
+ASIA\HKRVD0129 (10.130.206.162)   shuangmin
+
+--------------------------
+VSS\00 Cigna Generic Folder\18 Cigna Weekly Migration\20160811 PAR&PCR Request Template.xlsx
+---------------------------
+RTC
+xushum
+------------------------
+PROD password:
+SERACID150
+------------------------
+Fortify account:
+Your user account to the Fortify Portal was created as below:
+
+·         User id: same as your Asia AD account
+
+·         Password: n_+8caUl
+	  Totyu@234567
+·         Fortify portal URL: https://cignasca.sys.cigna.com/ssc/
+
+You will be prompted to reset your password when you first login to the portal. 
+The Fortify server is \\hkrnetp53. To use Fortify, please RDP to this server and use “HP Fortify SCA and Applications 4.30”.
+You can deposit the code base to \\hkrnetp53\Fortify_target\TCS first.
+
+-------------------
+RTC
+hxjunz /Cigna123
+------------------------------------
+1. Why are you writing to him? Sample --> I am writing to request for Fortify Scan review.
+2. What for? Which project?  Sample --> This is for project INC0026166 (project title)
+3. When do you need it? Sample -->  This project will be implemented on (DATE)
+4. Say a nice closing statement. Sample -->  Your review comments is highly appreciated.
+
+------------------------------------
+192.168.54.49 have replace 10.130.46.228 INDTCSSR06 WAS server
+192.168.54.48 have replace 10.130.46.227 INDTCSSR09 WAS server
+192.168.54.50 have replace  10.130.46.210 INDTCSDC01 Ldap server
+192.168.54.71 have replace  10.130.46.241 INDTCSWS024 Transit server
+-------------------------
+VSS admin
+admin
+123456
+---------------------------------------
+生产环境EAR package
+10.130.46.241（192.168.54.71）
+--------------------------------------
+HK dianhua
+Passcode: 450 093 2455#
+
+Hong Kong  :	+852 3018 9123
+Hong Kong (toll free)  :	800 967 075
+Taiwan (toll free)  :	0800 666 892
+Taiwan, Taipei  :	+886 (0) 2 2650 7278
+China (national)  :	+400 613 8231
+China, Beijing  :	+86 10 5667 0017
+China, Shanghai  :	+86 21 2039 7033
+
+Taiwan Business Approver change to "Cheng, Dragon S TWNRC" <Dragon.Cheng@Cigna.com>
+
+
+---------------------------------------
+Role	Name	Number
+Team/Role 	OP hotline (7 x 24)	+852 9157 5000
+Leader 	Angus Cheung	+852 2297 5031
+Team Member
+        Fung Robert	+852 2297 5032  - BPO帐号解锁
+	Johnston Tang	+852 2297 5083
+	Tony Tsang	+852 2297 5033  -安裝軟件 部署
+	Gary Cheung	+852 2297 5093  -開防火墻/網絡相關 RTC问题
+	Paul Or	+852 2297 5092
+
+"Pratt, Andrew HKG14" <Andrew.Pratt@Cigna.com>, "Marsh, Austin TL18R" <Austin.Marsh@Cigna.com>,  老大
+"Wong, Ken HKGH1" <Ken.Wong@Cigna.com>,  - deploy WAS setting，get Log
+852-2297-5007
+"Tang, Johnston HKGHM" <Johnston.Tang@Cigna.com>, 
+===========================================-
+CHG0032196
+"Cheung, Gary HKGH1" <Gary.Cheung@Cigna.com>,
+"Fung, Robert HKGHM" <Robert.Fung@Cigna.com>
+
+"Tsang, Karl HKGH1" <Karl.Tsang@Cigna.com>, 
+"Tsang, Tony (CTR) HKGH1" <Tony.Tsang@Cigna.com>, 
+Tony.Tong@Cigna.com,  +852 2297 5091
+
+Direct : +852 2297 5032
+                    -5033
+
+----------------------------------------
+"Lo, Rankine HKG14" <Rankine.Lo@Cigna.com>,  (852) 2539-9110
+---------------------------------------
+Please be carefully for the PCR.
+	MUST to select the assign to as previous email mentioned.
+	The assign to can be 'Angus'("Cheung, Angus (CTR) HKGH1" <Angus.Cheung@Cigna.com>)
+	请大家注意：
+	PCR选择的时候必须选上assign to，如果不知道谁执行PCR，就选择Angus。
+
+------------------------
+10.130.206.150
+w1yang
+CIgna12345
+------------------------
+New menber email
+
+Chaonan Huang/APAC/TCS, Yifan Zheng/APAC/TCS, Shuangmin Xu/APAC/TCS, 
+1273379
+1274668
+
+--------------------------------
+Robert.Fung@Cigna.com
+service-now
+g1wuxx
+Cigna121
+--------------------------------
+Logs Path:
+C:\Program Files\IBM\WebSphere\AppServer\profiles\AppSrv01\logs\server1
+-----------------------------------------------------------------------
+GetPolicyNumbersCSRq.java
+
+Altruist
+In investigation
+
+    gb2312
+    iso8859-1
+
+U5NW6BUC
+U5NW6
+
+11111aI
+123456aI
+
+SIT update-20150717
+Daily status Jul-22
+QA:2015/7/5
+Please suggest
+-----------------------------------------
+HK AS400
+"Ma, Shirley HKG14" <Shirley.Ma@Cigna.com>, 
+"Ling, Steve HKGH1" <Steve.Ling@Cigna.com>, 
+----------------------------------------
+"HK-IT-Helpdesk-Support HKI" <HK-IT-Helpdesk.Support@Cigna.com>, , 
+Umesh S2/APAC/TCS, 
+"Leung, Gilbert HKG14" <Gilbert.Leung@Cigna.com>, 
+"Chan, Bell HKG14" <bell.chan@Cigna.com>
+"Lui, Alex HKG14" <Alex.Lui@Cigna.com>
+"Lau, Kenny HKG14" <Kenny.Lau@Cigna.com>, 
+"Yuen, Michelle HKG14" <Michelle.Yuen@Cigna.com>
+Logesh Deivasikamani/CHN/TCS, 
+"Lai, Ricci HKG14" <Ricci.Lai@Cigna.com>, 
+
+231 server can't used
+"Mak, Terence HKGH1" <Terence.Mak@Cigna.com>, 
+
+Chengyong Shi/APAC/TCS@TCS, 
+Ling Wang <ling.wang@tcs.com>
+Dandan Yu/APAC/TCS, 
+
+Jun Ying/APAC/TCS, 
+Shamsher Azhar/APAC/TCS, 
+Shamsher Azhar/APAC/TCS@TCS, 	
+Zhifei Wu/APAC/TCS, 
+Jianfeng Ren/APAC/TCS@TCS
+
+
+Y Cheng/APAC/TCS, 
+
+
+michael1.s@tcs.com
+
+
+Ricci.Lai@Cigna.com,
+Sun Yang/APAC/TCS@TCS, 
+
+Mingxing Fang/APAC/TCS, 
+
+http://192.168.47.172:9082/CAIS/login.do
+
+
+
+<Shirley.Ma@Cigna.com>
+<meta  http-equiv ="Refresh" content="5">
+
+
+
+HKCAP:
+http://localhost:9081/BGHKWPCAP/unsecure/ForwardToLoginPage.do?actionParam=forwardToLoginPage
+
+http://localhost:9081/HKWPCAP/unsecure/Registration.do?actionParam=forwordToRegistration
+
+http://localhost:9081/HKWPCAP/unsecure/ForgotPassword.do?actionParam=forward
+
+PIn:
+U7EYJG24
+Pin password
+demop
+1111111aaaa
+123456az
+delete from rbac_challenge_questions where user_id = ?
+
+514381
+E8T93HF3
+Xs1jY3fFC35eREPaaFvFeyQgLpY=
+
+select ruat.attribute_value,substring(rua.external_id,1,5)
+from rbac_user ru, 
+rbac_user_app rua, rbac_user_attribute ruat,
+rbac_attributes ra, rbac_status rs 
+where ru.user_id = rua.user_id 
+and rua.user_id = ruat.user_id 
+and ruat.attribute_id = ra.attribute_id
+and ru.status_id = rs.status_id 
+and rs.status_code='N'
+--and ra.ATTRIBUTE_NAME = 'INITIAL_PIN' and ruat.attribute_value = ? and substring(rua.external_id,1,5) = ?
+
+多表插入
+cap工程
+UserAddDAOImpl.java
+
+
+HKSS:
+http://localhost:9081/hkss/hk.loginAction.do?actionParam=submit&ssn=00096457O
+
+
+http://localhost:9081/HKWPCAP/unsecure/ForwardToLoginPage.do?actionParam=forwardToLoginPage
+
+
+
+
+exec sp_hkwp_premium_transaction_query
+
+
+distinct
+
+
+Borker Protal
+
+selfServiceMain.jsp
+app.properties
+
+select request_session_id spid,OBJECT_NAME(resource_associated_entity_id) FC_account 
+from sys.dm_tran_locks where resource_type='OBJECT'
+
+kill 63 
+
+select name,create_date,modify_date from sys.all_objects
+where type_desc=N'SQL_STORED_PROCEDURE'
+and name ='usp_ss_fund_get_policy_fund_distribution'
+
+
+
+HKSS's project'[struts-config-hk.xml]:
+hk.loginAction.do
+
+forward name:
+=>input => DummyLogin.jsp
+=>changemail => hk.individualChangeAction.do?actionParam=entry =>IndividualChange.jsp
+=>success => hk.changeHistoryAction.do?actionParam=entry => ChangeHistory.jsp
+=>fundHistory => hk.changeHistoryAction.do?actionParam=entry => ChangeHistory.jsp
+
+
+PolicyPendingMemoDetail.jsp
+
+
+/pages/PolicyListDisplay.jsp
+
+
+AgentSearch.jsp
+
+<action path="/PolicyList" type="com.intl.cigna.ecommerce.vul.web.member.action.PolicyListAction" >
+	<forward name="success" path="/pages/PolicyListDisplay.jsp" />
+	<forward name="failure" path="pages/error.jsp" />
+	<forward name="onePolicy" path="/MyVUL.do?actionParam=main" />
+ 	 <forward name="noPolicies" path="/pages/NoPolicies.jsp" />
+</action>
+
+
+///////////////////////
+
+    select user_id from aegis_prod_hkwp..rbac_user
+  where SSO_ID like 'hkwp_test_ccs2'
+  
+  select EXTERNAL_ID from aegis_prod_hkwp..rbac_user_app
+  where user_id= 513094
+  
+  select individual_id from hkwp_ods_shadow_ipas..individual where c_ssn = 'hkwp_test_ccs2'
+  
+  select * from hkwp_ods_shadow_ipas..c_agency where individual_id=0xF44352B20303DF4AA8FF08D5FDFD1A4B
+  select * from hkwp_ods_shadow_ipas..c_broker where individual_id=0xF44352B20303DF4AA8FF08D5FDFD1A4B
+  
+  
+  update c_policy set servicing_agent_id = null where policy_num =''
+  
+  
+  select agency_id from c_broker cb
+  inner join hkwp_ods_shadow_ipas..individual ii on   cb.individual_id=ii.individual_id
+  inner join aegis_prod_hkwp..rbac_user_app rua on rua.external_id=ii.c_ssn 
+  inner join aegis_prod_hkwp..rbac_user ru on rua.user_id=ru.user_id 
+  where ru.sso_id=  'hkwp_test_ccs2'
+
+//////////////////////////////
+https://192.168.137.231:9043/ibm/console/logon.jsp
+-------------------
+231
+wasadmin
+Abcd1234
+
+U : hkadmin
+P : cigna000
+-------------------
+////////////
+
+檢索答案sql
+select * from rbac_challenge_questions where challenge_qa_id in (select challenge_qa_id challengeQaID from rbac_challenge_questions cq where user_id = (select user_id from rbac_user rbu where rbu.SSO_ID = 'hkwp_test_ccs2'))
+
+/*////////////
+
+
+
+http://192.168.47.163:9081/HKWPCAP/unsecure/MobileForgotPassword.do?actionParam=forward&tmLocale=en&backUpUri=http://localhost:9080/CP/MobileWelcome.do
+
+
+///////////////
+
+c_function
+
+////////////
+
+
+///////////
+
+Forgot to include you both in the email loop since you are also need to support for ETL process.
+
+///////////
+
+
+MyVULDAO
+
+
+
+//////
+
+CTA9000513
+
+/////
+
+
+
+//////////////
+User:
+Azhartest
+N7Z997GY
+
+
+HKIAPP55
+10.133.107.81
+Userid: HKIAPP55\tcs_haijun
+
+Password: August2015
+
+GRO: GRO0000
+
+SUN: SUN0000
+
+
+sit bk ADMIN
+userID: hkwptestbk01
+password: cigna000
+
+CCS user account
+hkwptestccs11011401
+
+Username: hkwp_test_ccs1
+hkwptestccs01
+
+Password: cigna000
+
+Broker Admin
+Username: con0001
+Passowrd: cigna000
+
+
+Login ID:               CON0001
+
+
+Good account/Broker
+hkwp_test_ccs2
+cigna000
+
+hkwp_test_fc01
+
+Hkwptestph31
+
+hkwptestph101  
+--Have policy
+
+hkwptestph100
+
+PCS ROLE
+
+Username: hkwptestpcs2
+
+Password: cigna000
+
+https://www.ultimatix.net/
+
+/////////////////
+
+webex ID:
+Can you try 2610073?
+///////////////
+Just to keep you in loop.
+////////////
+
+yong ge BPO
+user: cyshix
+
+password: Cigna1234567
+
+xiaofei BPO
+user: xxqian_admin
+
+password: $ChangeMe005
+Cigna123
+
+DB 180
+set user=QUOTE_HK_user
+set password=QUOTE_HK_C2341
+
+
+remote 180
+set user=axsham_admim
+set password=Cigna12345678
+
+192.168.137.231
+set user=axsham_admim
+set password=Cigna1235
+
+LOG address
+192.168.137.231
+
+Fortify
+10.130.80.120
+ASIA\b1chan
+Password:
+
+Poi123poi333
+
+
+/////////////
+Ereke BPO
+g1wuxx
+Cigna125
+IP:
+10.130.206.167
+
+////////////
+
+https://webportaluat.cigna.com.hk/hkwp/HKWPCAP/unsecure/ForwardToLoginPage.do?actionParam=forwardToLoginPage&&errorCode=&ssoId=unauthenticated
+https://webportaluat.cigna.com.hk/hkwp/BPCP/Login.do
+
+//////////////
+
+apple-touch-icon-precomposed.png
+
+C:\Users\hxjunz\Project\workspace\SVNBrokerProtal\LocalBusiness\source\com\inet\report\crystalclear.properties
+
+
+
+
+ ==========================================================
+ Login ID
+ Password
+ 
+CS
+ hkwp_test_ccs1
+ cigna000
+ 
+BDDM
+ hkwp_test_ccs2
+ cigna000
+ 
+
+ hkwptestpcs2
+ cigna000
+ 
+Other Broker - CON
+ con0000
+ cigna000
+ 
+Other Broker - PAR
+ paradmin
+ cigna000
+ 
+FC
+ con0002
+ cigna000
+ 
+policyholder
+ hkwptestph32
+ cigna000
+ 
+   
+   
+Function testing
+ Policy Number
+  
+Fund enquiry
+ HL00177242
+  
+Claims enquiry
+ CTB0000301
+  
+=====================================
+ 
+ HKIAPP55
+Userid: HKIAPP55\tcs_haijun
+Password: August2015
+
+//////////////////////
+update hkwp_ods_shadow_ipas..clm_claimMaster
+set policy_no = 'CTB0000301'
+where policy_no = 'CANCB00017'
+
+
+update hkwp_ods_shadow_ipas..clm_poFlicyMaster
+set policy_no = 'CTB0000301'
+where policy_no = 'CANCB00017'
+===========================================
+C:\Users\hxjunz\Project\workspace\SVNBrokerProtal\
+C:\Users\hxjunz\Desktop\HKWP_Broker_20150731\
+=============================================
+
+
+
+
+,*.js,*.css,*.jsp,*.properties,*.xml
+
+
+\\192.168.47.153\share\Broker portal\Broker portal all required documents\zhuAdd\9.OtherProject\HKSS_PROD_20150609_oldBellSend\SelfServiceWeb\WEB-INF
+
+\\192.168.47.153\share\Broker portal\Broker portal all required documents\zhuAdd\9.OtherProject\HKSS_PROD_20150609_oldBellSend\SelfServiceWeb\WebContent\WEB-INF
+-----------------------------------------------------------
+update locked account path:
+A838713 
+http://localhost:9081/BGHKWPCAP/secure/ForwardToUserSearch.do?actionParam=forwordToUserSearch
+http://localhost:9081/hkwp/HKWPCAP/secure/ForwardToOptOutSearch.do?actionParam=forwordToOptOutSearch
+https://webportaluat.cigna.com.hk/hkwp/HKWPCAP/secure/ForwardToUserSearch.do?actionParam=forwordToUserSearch
+https://webportaluat.cigna.com.hk/hkwp/HKWPCAP/secure/ForwardToApplicationSelectionPage.do?actionParam=forwardToApplicationSelectionPage
+
+https://webportaluat.cigna.com.hk/hkwp/HKWPCAP/secure/CompanySearch.do?actionParam=search
+
+
+https://webportaluat.cigna.com.hk/hkwp/HKWPCAP/secure/ForwardToOptOutSearch.do?actionParam=ForwardToOptOutSearch
+---------------------------------------------------------------------------------
+HG64030360 
+Policy change
+-----------------
+ long end = System.currentTimeMillis();   //End time
+
+		System.out.println("Total time" + (end - start) + " milliseconds."); 
+-----------------
+
+nbtstat -a
+-----------------
+Zhuhjtest
+-------
+MAX admin
+mstsc -admin
+---------------------
+Existing Webportal 
+https://hk.member.cigna.com/hkwp/CP
+ 
+Broker Portal
+https://hk.member.cigna.com/hkbp/BPCP
+
+https://hk.member.cigna.com/hkwp/CAIS
+
+hkwf_user001
+
+ 
+BDDM master account, should not release to brokers, only use for BDDM team to create BCS accounts.
+Username: hkwpbddm  (password will send out separately)
+ 
+Link for AMS on production:
+https://hk.member.cigna.com/hkbp/BGHKWPCAP/secure/ForwardToUserSearch.do?actionParam=forwordToUserSearch
+--------------------------------
+D704963
+---------------------
+生産環境DB
+CRH2SQL01/10.130.44.11
+jdbc.username = appconn
+jdbc.password = !QAZcde3
+
+CRH2SQL02/10.130.44.11
+jdbc.username = appconn
+jdbc.password = !QAZcde3
+-----------------
+WAS server IP address :192.168.137.120
+WAS server IP address :192.168.137.130
+--------------------------------------
+跳生産環境DB
+先10.130.80.56
+再10.130.44.111
+--------------------------------------
+填PCR\PAR
+
+Request to:
+hobbes chan
+Hobbes.Chan@Cigna.com, 
+
+The people who will do the excete
+"Cadmann, Wong HKGH1" <Cadmann.Wong@Cigna.com>, 
+
+
+D:\IBM\SDP\runtimes\base_v61\profiles\AppSrv01\logs\server1
+----------------------------
+Service-now
+https://cigna.service-now.com/
+User:l1wang
+Password:Cigna125
+------------------
+service-now
+g1wuxx
+Cigna123456
+----------
+jxrenx
+Cigna23456
+
+-------------
+HKRAPPPW001
+10.133.13.17
+axnara_admin
+Cigna321
+
+------------------
+webex account
+https://tcs.webex.com
+https://tcsglobal.webex.com/
+mingxing.fang
+Cigna346
+
+yabin.sun
+Tata@143.c
+
+shan.ge
+Tata@143.com12
+Fcgha
+--------------------
+userID: Azhartest
+             
+password: cigna000
+
+CON0013
+------------------------------
+Logon search SQL
+select rr.name roleName,rua.external_id externalId,fc.attribute_value fcCode,ru.addl_info defaultLocale  
+			from rbac_role rr inner join rbac_application ra on  rr.APPLICATION_ID = ra.APPLICATION_ID  
+			inner join rbac_user_role rur on rur.ROLE_ID = rr.ROLE_ID inner join rbac_user ru on  ru.USER_ID = rur.USER_ID  
+			inner join rbac_user_app rua on rua.USER_ID = ru.USER_ID left join (select ruat.user_id, ruat.attribute_value  
+			from rbac_user_attribute ruat, rbac_attributes rat where ruat.ATTRIBUTE_ID = rat.ATTRIBUTE_ID AND rat.ATTRIBUTE_NAME = 'FC_CODE'  
+			UNION select ruat.user_id, ruat.attribute_value from rbac_user_attribute ruat, rbac_attributes rat where ruat.ATTRIBUTE_ID = rat.ATTRIBUTE_ID AND  
+			rat.ATTRIBUTE_NAME = 'BK_CODE') fc  
+			on ru.user_id = fc.user_id where ru.sso_id = '' and ra.NAME = 'HKWP';
+-----------------------
+Folder: CRH2SQL, scripts to be deployed to 10.130.44.11 / Production Web DB
+Folder: HKRSQL07, scripts to be deployed to the HKRSQL07 / ETL DB
+-----------------------------
+
+
+TAIWAN	Q1
+1223	Q2
+1223	Q4
+
+
+C4HZ2V98	D5890
+--------------
+All the people
+Jicheng Gao/APAC/TCS@TCS, Chengyong Shi/APAC/TCS@TCS, Yang Wang/APAC/TCS@TCS,
+Xiaofei Qian/APAC/TCS@TCS, Y Cheng/APAC/TCS@TCS, N Aadhi/APAC/TCS@TCS, 
+Guoxiang W/APAC/TCS@TCS, Dandan Yu/APAC/TCS@TCS, Zhang Ting/APAC/TCS@TCS, 
+Xiujun Tan/APAC/TCS@TCS, Xiaoyan Xu/APAC/TCS@TCS, Haijun Zhu/APAC/TCS@TCS,
+Shan Ge/APAC/TCS@TCS, Yang Ouyang/APAC/TCS@TCS, Arnie Malazarte/APAC/TCS@TCS,
+Mingxing Fang/APAC/TCS@TCS, He Li1/APAC/TCS@TCS, Yabin Sun/APAC/TCS@TCS,
+Liangyu Shen/APAC/TCS@TCS, Mahadev Hallikhed/APAC/TCS@TCS, W Zheng1/APAC/TCS@TCS,
+Xuesong Chen/APAC/TCS@TCS, Kumarreddy Surendra/APAC/TCS@TCS, 
+
+
+------------------
+HKRSQLP01
+10.130.47.47
+
+Batch run on this Server.(PROD)
+------------------
+service-now
+jxrenx
+Cigna12345
+------------------------------
+Security Approver:
+	Derek: TW/ID/KR/GOIT
+	Alan: Any others.
+
+
+Operation Approver:
+	--Stone SZ
+	All country:
+	"Kwan, Kinho HKGH1" <Kinho.Kwan@Cigna.com>
+-------------------------------
+search for hostname
+nbtstat -a 192.168.138.180 
+
+ping port
+telnet 127.0.0.1.80
+-----------
+Fund policy
+HL00818508
+
+Claim policy
+HG64010442
+
+------------
+
+Guoxiang W/APAC/TCS, Xiaoyan Xu/APAC/TCS, Yifan Zheng/APAC/TCS, Yang Wang/APAC/TCS, Chaonan Huang/APAC/TCS, Shuangmin Xu/APAC/TCS, 
+Arnie Malazarte/APAC/TCS@TCS, Jicheng Gao/APAC/TCS, "Cheng, Frankie HKGH1" <Frankie.Cheng@CIGNA.COM>, , He Li1/APAC/TCS@TCS,, Xuesong Chen/APAC/TCS@TCS,, 
+---------------
+daliy report
+
+Jianfeng Ren/APAC/TCS@TCS, , 
+Guoxiang W/APAC/TCS@TCS, Yang Wang/APAC/TCS@TCS, Chaonan Huang/APAC/TCS@TCS, Yifan Zheng/APAC/TCS@TCS, Shuangmin Xu/APAC/TCS@TCS, Xiaoyan Xu/APAC/TCS@TCS,, Ling Wang/APAC/TCS@TCS, Jicheng Gao/APAC/TCS@TCS,, 
+
+
+-----------------
+
+Operation Approver - Stone ==> "Sze, Stone      HKGH1" <Stone.Sze@Cigna.com>
+85222975056
+Security Approver - Alan ==> "Kwan, Alan HKGH1" <Alan.Kwan@Cigna.com>
+852 -22975026
+Technology Approver - TK ==> "Tan, TK HKGH1" <TK.Tan@Cigna.com>
+
+-----------------
+[helpdeskPCR] - Webservice function on AMS for iEB application
+
+CignaSD Asia <Asia.SD@cigna.com>, "CI Global HL&A Regional IT Infrastructure Delivery Team" <cghlaroitops@Cigna.com>, 
+-----------------
+删除全部文件
+del /s/q/a/f del /s/q/a/f C:\Users\ZXHAIJ\Desktop\New folder\VULWeb\*.*
+del /s/q/a/f del /s/q/a/f *.*
+------------------
+RTC
+UserID: hxjunz
+Password:Cigna123
+
+-------------------
+chmod 755 *
+-------------------
+OT 
+$/11 Cigna AS400 Team/00 General Document/12 
+Cigna ROIT Timesheet/15 OT Approval Info
+
+$/11 Cigna AS400 Team/00 General Document/11 
+Cigna ROIT Task List/20161221 Leave Balance and 
+OT Support.xlsx
+-------------------
+dayinji
+08
+3636
+-----------------------
+timeSheet
+$/11 Cigna AS400 Team/51 HK Local Team/00 General Document/12 Cigna Local Timesheet/Resources plan - TCS - 2017.xlsx: 
+$/00 Cigna Generic Folder/13 Cigna Timesheet All Team/13 2017 Year/01 HK Local/TCS Master Slate -2017-Jan.xlsx: 
+
+-----------------------
+user:                      exlaix 
+password:           Cigna098 
+-------------------
+231
+U : hkadmin
+
+P : cigna000
+-------------------
+
+CSI:
+admin1
+admin123
+----------------------
+
+PCR:
+
+Please remind TCS members to follow up the change management procedure during create ticket.
+ 
+Infra change windows (Firewall, Network…etc)
+Wednesday        HKT 21:00-05:00
+ 
+Application change windows
+Ø  AS400 (Aldon, EAR…etc)
+Saturday             HKT 06:00 -09:00 (Depend on countries production hours)
+Ø  Application (Server, EAR, rulebook…etc)
+Saturday             HKT 21:00-05:00
+ 
+During the monthly maintenance weekend, we can only provide a limited timeslots for PCR.
+Please raise emergency change if the ticket scheduled on non-change windows.
+ 
+On the other hand, the normal change lead time is 5 days. 
+Lead time clock starts when you are submitted ALL information for the change ticket. (No blank ticket allowed)
+ 
+For example: if the change scheduled on Saturday, please submit the change ticket on/before Monday.
+-------------------------
+
+
+lina.la@cignakorea.com
+
+--------------------------
+HK IT approve
+
+Business Approval : Joanna Leung
+
+Operation Approval : Anthony Chan
+
+Security Approval: Alex Lui
+
+Technical Approval: Kenny Lau
+
+---------------------------
+Portal
+
+HKRSQL07\10.130.47.144
+HKRSQL07\Haijun
+Cigna12345
+----------------------------
+GitLab - https://www.youtube.com/watch?v=LgY8XuoM8aU 
+Jenkins - https://www.youtube.com/watch?v=R0gyFokexks 
+
+
+http://cpc-git-th.sym.paas.silver.com
+
+Username: devops_admin 
+Pass: 4dm1n15trat0r 
+----------------------------
+
+"HK-IT-Helpdesk-Support HKI" <HK-IT-Helpdesk.Support@Cigna.com>,
+"HK-IT-Application-Support HKI" <HKIT.ApplicationSupport@Cigna.com>, 
+
+
+db_name	sa	
+db_pwd	TCS123	
+db_url	192.168.47.153\SQLjavaap	
+-------------------------------------------
+
+address - 16034
+
+individual -16596
+
+
+c_tmp_customer -
+
+duplicate policies 
+
+---------------------------
+SVN:
+User Login ID: haijun
+
+Passwd: Cigna123
+---------------------------
+Please use following ID to login CAPSIL UAT (HKRASU01):
+
+Username – HK1UATG1
+
+Password – HK1UATG1
+---------------------------
+ CITAS UAT DB HKISQLBUW004
+ID : HKISQLBUW004\haijun
+
+Password : DBconn2017
+----------------------------
+WAS UAT (CRH1WAS51)
+  https://192.168.137.231:9043/ibm/console/logon.jsp
+ 
+ ID
+ hkadmin
+ 
+password
+ cigna000
+----------------------------
+HKWP_ODS_SHADOW_IPAS
+
+appconn
+9EU2YKJx
+----------------------------
+For hkrappuw001,
+
+UserName:hk_digital_uat_svc
+
+Password:Cigna1234
+---------------------------------
+Fortify scan
+https://cignasca.sys.cigna.com/ssc
+zxhaij
+Totyu@45678
+---------------------------------
+https://www.cigna.com.hk/CIGNA/cms/ 
+------------------------------------
+CRH2SQL51.CRHTINT.COM
+192.168.138.180
+------------------------------------
+https://www.cigna.com.hk/zh-hant/customer-service/index
+-------------------------------------
+Service account: HK_ESALES_CITAS_SVC
+DB CITAS in server HKISQLBUW004 as “DB writer” access.
+-------------------------------------
+
+
+rate_master
+rate_detail
+emailquote_look_up
+campaign_master
+offer_master
+package_master
+offer_package
+plan_master
+package_plan
+plan_charge
+charge_pointer
+offer_package_attribute
+
+------------------------------------------
+C:\Users\ZXHAIJ\Favorites
+------------------------------------------

@@ -1,0 +1,16 @@
+HK:
+CHG0033175 - Acces CRH2SQL01/10.130.44.111 broker portal DB 2017/02/22 -PAR
+INC0033909 - Node.js installation 2017/02/21
+CHG0033180 - Acces production database of portal 2017/02/23 - 2017/03/03 -PAR
+CHG0033234 - Acces production database of portal 2017/03/07 - 2017/03/14 -  -PAR
+CHG0033267 - Run data patch in production database of application "web portal" for HKSIR2948ªå2017/03/10 - 2017/03/14 -  -PAR
+
+CHG0033398 -Request to access production database of application "web portal" for HKSIR3033 2017/04/07 - 2017/4/21- PAR
+CHG0033480 -Fiewwall - PCR -Done
+
+CHG0033508 - CSI migration -Pending
+
+INC0035643 -Need raise a SAR
+INC0035658 - Stoped.
+
+CHG0033532 -PAR 2017/05/11 - 2017/06/01- PAR

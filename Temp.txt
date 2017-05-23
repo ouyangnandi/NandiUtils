@@ -1,0 +1,1 @@
+http://autouw.cigna.com.hk/UWHK/services/UW?wsdl
