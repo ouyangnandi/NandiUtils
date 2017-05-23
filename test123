@@ -1,0 +1,41 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/"; xmlns:ser="http://service.quote.ecommerce.cigna.intl.com">;
+
+   <soapenv:Header/>
+
+   <soapenv:Body>
+
+      <ser:queryPackageQuotation>
+
+         <ser:queryParam>
+
+            <ser:agent/>
+
+            <ser:password/>
+
+            <ser:country>HK</ser:country>
+
+            <ser:language>en</ser:language>
+
+            <ser:campaigncode>INTELECM17</ser:campaigncode>
+
+            <ser:offercode>IE100_Offer</ser:offercode>
+
+            <ser:age>17</ser:age>
+
+            <ser:gender>M</ser:gender>
+
+            <ser:smokeamountperday>0</ser:smokeamountperday>
+
+            <ser:occupationlevel>1</ser:occupationlevel>
+
+            <ser:monthlyincome>1</ser:monthlyincome>
+
+         </ser:queryParam>
+
+      </ser:queryPackageQuotation>
+
+   </soapenv:Body>
+
+</soapenv:Envelope>
+
+http://10.133.13.45:9080/QuoteEngine/services/QuoteService
